@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-1#omnz0iri3jo%(iwuag2fmjq5(k@0hq7o0zxre-c4cp@$w@d9
 DEBUG = True
 
 import os
+import whitenoise
 
 ALLOWED_HOSTS = ['*']
 
